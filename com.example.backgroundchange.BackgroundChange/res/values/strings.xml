@@ -1,0 +1,11 @@
+<resources>
+
+    <string name="app_name">BackgroundChange</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_background_change">BackgroundChange</string>
+    <string name="red">0</string>
+    <string name="green">0</string>
+    <string name="blue">0</string>
+
+</resources>
